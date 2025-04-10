@@ -13,7 +13,7 @@ traitsFolder.Name = "Traits"
 local traitFolder = specs:FindFirstChild("Trait") or Instance.new("Folder", specs)
 traitFolder.Name = "Trait"
 -- Updated list of traits
-local availableTraits = {"Clamps", "Tireless", "Bunnys", "NoLook", "QuickDraw", "Surf"}
+local availableTraits = {"Clamps", "Tireless", "Bunnys", "NoLook", "QuickDraw", "Surf", "Destruction"}
 local activeTraits = {}
 
 -- Create GUI
